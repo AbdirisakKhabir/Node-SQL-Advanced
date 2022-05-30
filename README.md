@@ -20,6 +20,7 @@ Write at `least a paragraph` explaining how you will normalize the data on this 
 | North Blue School  | Mohamed Ali | Hamdi Jama  | English   | English     |
 | Gabi School        | Sarah Yusuf | Fowzi Ahmed | Biology   | Math        |
 
+First i will create SchoolID to become a Primary Key on Table, Secondly i will Break the student columns  and Class Columns to make only Single Column named StudentName and the Single Column Named Clasess.
 
 ## Task 3: Stretch Problems
 
